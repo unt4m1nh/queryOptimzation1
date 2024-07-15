@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.search-box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-search {
+  width: 18rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: 0.125rem solid black;
+}
+
